@@ -2,7 +2,7 @@
     "AppName": "example-project",
     "Author": "Alex Ford",
     "Email": "alex.ford@music-group.com",
-    "PrintHomeDir": false,
+    "TPLArtifacts": "~/Development/TPL",
     "License": [
         "MIT",
         "GNU GPL v3.0",
